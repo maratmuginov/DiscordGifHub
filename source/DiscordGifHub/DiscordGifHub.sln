@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordGifHub.Presentation", "DiscordGifHub.Presentation\DiscordGifHub.Presentation.csproj", "{113E510A-F9ED-43DE-97EA-C82E0E3516EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordGifHub.Tests", "DiscordGifHub.Tests\DiscordGifHub.Tests.csproj", "{3DC9FD51-6057-483B-B101-E4216A6AA0E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordGifHub.Shared", "DiscordGifHub.Shared\DiscordGifHub.Shared.csproj", "{242DBC3C-10D8-408A-BB3D-1D6B07FF19CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{113E510A-F9ED-43DE-97EA-C82E0E3516EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113E510A-F9ED-43DE-97EA-C82E0E3516EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113E510A-F9ED-43DE-97EA-C82E0E3516EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113E510A-F9ED-43DE-97EA-C82E0E3516EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC9FD51-6057-483B-B101-E4216A6AA0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC9FD51-6057-483B-B101-E4216A6AA0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC9FD51-6057-483B-B101-E4216A6AA0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC9FD51-6057-483B-B101-E4216A6AA0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{242DBC3C-10D8-408A-BB3D-1D6B07FF19CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242DBC3C-10D8-408A-BB3D-1D6B07FF19CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242DBC3C-10D8-408A-BB3D-1D6B07FF19CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242DBC3C-10D8-408A-BB3D-1D6B07FF19CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F62BD0E1-4EFC-4160-A2C4-07AA35B2ABC8}
+	EndGlobalSection
+EndGlobal
