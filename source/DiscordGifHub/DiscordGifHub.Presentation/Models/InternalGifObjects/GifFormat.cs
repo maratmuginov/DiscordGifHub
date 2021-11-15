@@ -2,7 +2,7 @@
 {
     public enum GifFormat
     {
-        IMAGE,
-        VIDEO
+        Image,
+        Video
     }
 }
